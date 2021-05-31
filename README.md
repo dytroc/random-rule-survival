@@ -1,9 +1,3 @@
-# Paper plugin sample
-Forked from monun's tap-sample-plugin, but without need to replace the names for myself.
+# Random Rule Survival
 
-## Environment
-* Kotlin
-* Tap
-* Kommand
-* Unit test
-* Travis CI
+# 랜덤 룰 서바이벌
