@@ -1,5 +1,5 @@
 name: $pluginName
-main: $pluginMain
-depend: [ Kotlin, ProtocolLib ]
+main: com.github.dytroInc.randomrule.plugin.RandomRuleSurvival
+depend: [ Kotlin ]
 api-version: '1.16'
 version: $version
